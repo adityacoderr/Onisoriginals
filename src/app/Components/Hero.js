@@ -7,7 +7,7 @@ const Hero = () => {
             <div class="hero">
                 <img src="e.jpg" alt="" />
                 <div class="hero-cont">
-                    <h1>onisoriginals</h1>
+                    <h1>onisoriginal</h1>
                     <p>Welcome to OnisOriginals ! Shop your Interest with an amazing price and follow trendy fashion with us
                     </p>
                     <Link href={"/SportsSneakers"}><button>Shop Now</button></Link>
