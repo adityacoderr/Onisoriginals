@@ -43,7 +43,7 @@ const Footer = () => {
                         <button type="submit" >Subscribe Now</button>
                     </div>
                 </ul>
-                <ul>© 2023 by ONISORIGINALS. All rights reserved.</ul>
+                <ul>© 2024 by ONISORIGINALS. All rights reserved.</ul>
             </footer>
         </>
     )
